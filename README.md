@@ -15,6 +15,7 @@
    <img align="center" alt="postgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
    <img align="center" alt="Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
  </div>
+ 
 
 # 🧐 Informações não tão úteis:
 
@@ -22,9 +23,6 @@
 - 🐈 Tenho 3 gatas adultas;
 - 👾 Sou aficionado por tegnologia desde muito novo, me levando a ter uma empolgação muito grande quando se fala de trabalhar com ela;
 - 🧮 Possuo afinidade com exatas e RLM, chegando a cursar dois períodos de Matemática antes de iniciar o curso de ADS;
-
-- 
-<div class="tenor-gif-embed" data-postid="13307647" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/soulja-boy-pepe-typing-matrix-codes-gif-13307647">Soulja Boy Pepe Sticker</a>from <a href="https://tenor.com/search/soulja+boy-stickers">Soulja Boy Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 # 📫 Como chegar até mim:
 <div> 
