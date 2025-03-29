@@ -4,7 +4,7 @@
 
 - 🧑‍💻 Trabalho na empresa <a href="https:/https://www.gndi.com.br/" target="_blank" rel="noopener noreferrer">NDI<a/> como Gestor de Pessoas;
 - 📘 Aluno de Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br/faculdade/" target="_blank" rel="noopener noreferrer"> Estácio<a/>;
-- 🔍 Atualmente, ando bastante empolgado com Node.js;
+- 🔍 Atualmente, aprofundando os conhecimentos em Node.js;
 - 🏖️ Moro em Fortaleza, no Ceará/BR;
 
 # ⚡ Tecnologias:
@@ -19,10 +19,10 @@
 
 # 🧐 Informações não tão úteis:
 
-- 🎮 Louco por jogos, principalmente RPG 🎲;
+- 🎮 Aficionado por jogos, principalmente RPG 🎲;
 - 🐈 Tenho 3 gatas adultas;
-- 👾 Sou aficionado por tegnologia desde muito novo, me levando a ter uma empolgação muito grande quando se fala de trabalhar com ela;
-- 🧮 Possuo afinidade com exatas e RLM, chegando a cursar dois períodos de Matemática antes de iniciar o curso de ADS;
+- 👾 Interessado em tegnologia desde sempre, gosto de trabalhar com ela;
+- 🧮 Possuo afinidade com exatas e RLM, cheguei a cursar dois períodos de licenciatura Matemática antes de iniciar o curso de ADS;
 
 # 📫 Como chegar até mim:
 <div> 
