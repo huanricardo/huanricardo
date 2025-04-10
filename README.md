@@ -1,10 +1,10 @@
-# Olá! Me chamo Huan Ricardo 👋😃
+# Olá! Me chamo Huan Ricardo! 👋😃
 
 # 📌 Informações úteis:
 
-- 🧑‍💻 Trabalho na empresa <a href="https:/https://www.gndi.com.br/" target="_blank" rel="noopener noreferrer">NDI<a/> como Gestor de Pessoas;
+- 🧑‍💻 Trabalho na empresa <a href="https://www.gndi.com.br/" target="_blank" rel="noopener noreferrer">NDI<a/> como Líder de Equipe;
 - 📘 Aluno de Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br/faculdade/" target="_blank" rel="noopener noreferrer"> Estácio<a/>;
-- 🔍 Atualmente, aprofundando os conhecimentos em Node.js;
+- 🔍 Atualmente, aprofundando os conhecimentos em React;
 - 🏖️ Moro em Fortaleza, no Ceará/BR;
 
 # ⚡ Tecnologias:
