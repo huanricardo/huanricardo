@@ -3,8 +3,8 @@
 # 📌 Informações úteis:
 
 - 📘 Aluno de Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br/faculdade/" target="_blank" rel="noopener noreferrer">Estácio</a>;
-- 🎓 Estudante na <a href="https://www.alura.com.br/" target="_blank" rel="noopener noreferrer">Alura</a>, em constante evolução com cursos focados em back-end e desenvolvimento web;
-- 🔍 Atualmente, aprofundando os conhecimentos em SQL;
+- 🎓 Estudante na <a href="https://www.alura.com.br/" target="_blank" rel="noopener noreferrer">Alura</a>
+- 🔍 Atualmente, aprofundando os conhecimentos em Front-end, com React;
 - 🌐 Leitura e escrita em inglês em nível intermediário, com foco em conteúdo técnico e documentação;
 - 🏖️ Moro em Fortaleza, no Ceará/BR;
 
